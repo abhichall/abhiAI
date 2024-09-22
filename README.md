@@ -57,3 +57,8 @@ This will start the development server on localhost:3000.
 - Node.js and npm/yarn installed.
 - Gemini API Key (you will need to generate this from the Gemini platform).
 
+
+
+### Live Project
+<img width="1691" alt="Screenshot 2024-09-22 at 11 57 19 AM" src="https://github.com/user-attachments/assets/7fa2a76e-c02d-4e00-b9a6-16d66bb56c6d">
+
