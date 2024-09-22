@@ -1,9 +1,40 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # abhiAI
+
+abhiAI is a Gemini clone application that utilizes the Gemini API to create an AI-driven experience. Built with React and Vite, this app is designed for fast performance and a seamless user interface, leveraging hot module replacement (HMR) for smooth development.
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tech Stack](#tech-stack)
+- [Screenshots](#screenshots)
+- [Future Enhancements](#future-enhancements)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Overview
+
+abhiAI is designed to replicate the functionality of Gemini, using the Gemini API to handle data and interactions. It provides a fast and intuitive AI interface that enables real-time responses and actions.
+
+## Features
+
+- **Real-time AI interactions:** Utilize the power of the Gemini API for fast and reliable AI-driven interactions.
+- **Hot Module Replacement:** Thanks to Vite, you can experience fast reloading without losing your application state during development.
+- **Modular Design:** Easy to extend and scale.
+- **API Integration:** Seamlessly connects with the Gemini API for all backend operations.
+
+## Installation
+
+### Prerequisites
+
+- Node.js and npm/yarn installed.
+- Gemini API Key (you will need to generate this from the Gemini platform).
+
+### Steps
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/abhiAI.git
