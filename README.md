@@ -2,17 +2,6 @@
 
 abhiAI is a Gemini clone application that utilizes the Gemini API to create an AI-driven experience. Built with React and Vite, this app is designed for fast performance and a seamless user interface, leveraging hot module replacement (HMR) for smooth development.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -26,6 +15,41 @@ abhiAI is designed to replicate the functionality of Gemini, using the Gemini AP
 - **API Integration:** Seamlessly connects with the Gemini API for all backend operations.
 
 ## Installation
+
+   ### Prerequisites
+   
+   - Node.js and npm/yarn installed.
+   - Gemini API Key (you will need to generate this from the Gemini platform).
+
+### Steps
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/abhiAI.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd abhiAI
+Install dependencies:
+
+bash
+Copy code
+npm install
+Set up environment variables:
+
+Create a .env file in the root directory and add your Gemini API key:
+
+bash
+Copy code
+VITE_GEMINI_API_KEY=your_gemini_api_key_here
+Run the application:
+
+bash
+Copy code
+npm run dev
+This will start the development server on localhost:3000.
 
 ### Prerequisites
 
