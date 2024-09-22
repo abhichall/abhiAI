@@ -27,12 +27,13 @@ abhiAI is designed to replicate the functionality of Gemini, using the Gemini AP
 
    ```bash
    git clone https://github.com/yourusername/abhiAI.git
+
 Navigate to the project directory:
 
-bash
-Copy code
-cd abhiAI
-Install dependencies:
+   ```bash
+   cd abhiAI
+---
+###Install dependencies:
 
 bash
 Copy code
