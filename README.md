@@ -32,34 +32,28 @@ Navigate to the project directory:
 
    ```bash
    cd abhiAI
----
+```
 ###Install dependencies:
 
-bash
-Copy code
-npm install
-Set up environment variables:
-
+```bash
+      Copy code
+      npm install
+      Set up environment variables:
+```
 Create a .env file in the root directory and add your Gemini API key:
 
-bash
+```bash
 Copy code
 VITE_GEMINI_API_KEY=your_gemini_api_key_here
+````
 Run the application:
 
-bash
-Copy code
+```bash
 npm run dev
 This will start the development server on localhost:3000.
-
+```
 ### Prerequisites
 
 - Node.js and npm/yarn installed.
 - Gemini API Key (you will need to generate this from the Gemini platform).
 
-### Steps
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/abhiAI.git
