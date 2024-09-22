@@ -7,6 +7,8 @@ abhiAI is a Gemini clone application that utilizes the Gemini API to create an A
 
 abhiAI is designed to replicate the functionality of Gemini, using the Gemini API to handle data and interactions. It provides a fast and intuitive AI interface that enables real-time responses and actions.
 
+<img width="1691" alt="Screenshot 2024-09-22 at 11 57 19 AM" src="https://github.com/user-attachments/assets/7fa2a76e-c02d-4e00-b9a6-16d66bb56c6d">
+
 ## Features
 
 - **Real-time AI interactions:** Utilize the power of the Gemini API for fast and reliable AI-driven interactions.
@@ -56,9 +58,3 @@ This will start the development server on localhost:3000.
 
 - Node.js and npm/yarn installed.
 - Gemini API Key (you will need to generate this from the Gemini platform).
-
-
-
-### Live Project
-<img width="1691" alt="Screenshot 2024-09-22 at 11 57 19 AM" src="https://github.com/user-attachments/assets/7fa2a76e-c02d-4e00-b9a6-16d66bb56c6d">
-
